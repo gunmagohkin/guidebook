@@ -374,8 +374,8 @@
 
     }
 
-    #page2 .icon-item strong {
-        font-size: 14px; /* Reduced font size for icon text */
+    #page2 .back-text-content span {
+        font-size: 13px; /* Reduced font size for icon text */
         color:#4173a5;
         margin: 0;
     }
