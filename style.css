@@ -329,7 +329,13 @@
         margin: 0;
     }
 
-    #page2 .back-text-content strong {
+    #page2 .icon-item strong {
+        font-size: 14px; /* Reduced font size for icon text */
+        color:#4173a5;
+        margin: 0;
+    }
+
+    #page2 .back-text-content  strong {
         color: #4173a5;
     }
 
@@ -366,6 +372,12 @@
         color: #555;
         text-align: justify;
 
+    }
+
+    #page2 .icon-item strong {
+        font-size: 14px; /* Reduced font size for icon text */
+        color:#4173a5;
+        margin: 0;
     }
 
     /* Page 3 Styling */
